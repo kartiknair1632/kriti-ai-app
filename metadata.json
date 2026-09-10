@@ -1,0 +1,6 @@
+{
+  "name": "Kriti AI",
+  "description": "AI-powered personal life organizer that captures messy notes, receipts, tickets, goals, and health records into organized dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
